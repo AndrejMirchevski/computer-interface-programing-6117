@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/Week3.iml" filepath="$PROJECT_DIR$/Week3/Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/Week3_exercise2/Week3_exercise2.iml" filepath="$PROJECT_DIR$/Week3/Week3_exercise2/Week3_exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/Week3_exercise4/Week3_exercise4.iml" filepath="$PROJECT_DIR$/Week3/Week3_exercise4/Week3_exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/Week4_exercise5/Week4_exercise5.iml" filepath="$PROJECT_DIR$/Week3/Week4_exercise5/Week4_exercise5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/computer-interface-programing-6117.iml" filepath="$PROJECT_DIR$/.idea/computer-interface-programing-6117.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/week1_exercise1/week1_exercise1.iml" filepath="$PROJECT_DIR$/Week1/week1_exercise1/week1_exercise1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/week1_exercise2/week1_exercise2.iml" filepath="$PROJECT_DIR$/Week1/week1_exercise2/week1_exercise2.iml" />
@@ -16,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/Week2/week2_exercise3/week2_exercise3.iml" filepath="$PROJECT_DIR$/Week2/week2_exercise3/week2_exercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/week2_exercise4/week2_exercise4.iml" filepath="$PROJECT_DIR$/Week2/week2_exercise4/week2_exercise4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/week2_exercise5/week2_exercise5.iml" filepath="$PROJECT_DIR$/Week2/week2_exercise5/week2_exercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/week3_exercise1/week3_exercise1.iml" filepath="$PROJECT_DIR$/Week3/week3_exercise1/week3_exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/week3_exercise3/week3_exercise3.iml" filepath="$PROJECT_DIR$/Week3/week3_exercise3/week3_exercise3.iml" />
     </modules>
   </component>
 </project>
